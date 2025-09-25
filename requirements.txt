@@ -1,0 +1,6 @@
+opencv-python
+pillow
+pdf2image
+pytesseract
+langdetect
+pymupdf
